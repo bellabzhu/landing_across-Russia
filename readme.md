@@ -18,4 +18,4 @@ ___
 ___
 **Автор проекта:** Белла Бжукова. 
 
-Посмотреть сайт на [GitHub Pages](https://bellabzhu.github.io/app_mesto)
+Посмотреть сайт на [GitHub Pages](https://bellabzhu.github.io/landing_across-Russia)
