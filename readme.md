@@ -1,21 +1,18 @@
-# *--across-russia--*
-#### Это учебный проект о путешествии по России в рамках курса на Яндекс.Практикум. 
-<br>
+# Across Russia landing page
 
 ![](./images/lead-polka.jpg)
-### **Главная задача проекта:** сверстать по макету сайт, адаптированный под устройства шириной от 320px и выше.   
 ___
-**Что использовано в проекте:**
-* Разработка desktop-first;
-* Сайт отображается согласно макету на популярных разрешениях: 320px, 768px, 1024px, 1280px и выше; 
-* Использована технология flex, grid, функция calc();
-* Ссылки имеют плавную анимацию при наведении;
-* У некоторых элементов реализована "резиновая" верстка;
-* Все тексты прогнаны через ["Типограф"](http://example.com). Благодаря этому тексты на сайте смотрятся корректно, нет неловких переносов как в макете (например, перенос тире в блоке cover). 
-* HTML-код валиден (согласно https://validator.w3.org )
-___
-**Сделано на:** HTML, CSS.
-___
-**Автор проекта:** Белла Бжукова. 
+**Features:**
+* desktop-first design;
+* the website is working correctly at popular screen resolutions: 320px, 768px, 1024px, 1280px+ ; 
+* flex, grid, function calc() used;
+* links have hover effect animation;
+* adaptive/responsive design;
+<br>
 
-Посмотреть сайт на [GitHub Pages](https://bellabzhu.github.io/landing_across-Russia)
+**Made with** HTML5, CSS3.
+___
+**Author:** Bella Bzhukova.
+The project was made during training at [Yandex.Practikum](https://practicum.yandex.ru).
+___
+To visit the website <a href="https://bellabzhu.github.io/landing_across-Russia" onclick="return ! window.open(this.href);">click here</a>.
