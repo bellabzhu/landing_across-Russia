@@ -12,7 +12,8 @@ ___
 
 **Made with** HTML5, CSS3.
 ___
-**Author:** Bella Bzhukova.
-The project was made during training at [Yandex.Practikum](https://practicum.yandex.ru).
+**Author:** Bella Bzhukova.<br>
+
+<sub>The project was made during training at [Yandex.Practikum](https://practicum.yandex.ru).</sub>
 ___
 To visit the website <a href="https://bellabzhu.github.io/landing_across-Russia" onclick="return ! window.open(this.href);">click here</a>.
