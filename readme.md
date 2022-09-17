@@ -1,6 +1,9 @@
 # Across Russia landing page
 
 ![](./images/lead-polka.jpg)
+>[Project DEMO.](https://bellabzhu.github.io/landing_across-Russia)
+### **About**
+Landing with adaptive and responsive layout.
 ___
 **Features:**
 * desktop-first design;
@@ -15,5 +18,3 @@ ___
 **Author:** Bella Bzhukova.<br>
 
 <sub>The project was made during training at [Yandex.Practikum](https://practicum.yandex.ru).</sub>
-___
-To visit the website <a href="https://bellabzhu.github.io/landing_across-Russia" onclick="return ! window.open(this.href);">click here</a>.
